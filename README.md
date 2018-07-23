@@ -16,3 +16,5 @@ copy ssh key in github by going into setting ssh & gpg keys
 give title and past ssh key into the box
 
 create new repo in git hub and clone with local directory "git clone"
+
+praticing on zub's labtop
